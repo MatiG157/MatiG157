@@ -12,8 +12,6 @@
 
 - 🌱 I’m deepening my knowledge in **backend architecture, scalable applications, and software development best practices**
 
-- 💬 Ask me about **React, Node.js, SQL, Sequelize, .NET (C#), Git, or Python for AI**
-
 - 🚀 I’m currently looking for an **internship or junior developer position**, especially in roles related to **AI, Machine Learning, or Full-Stack Development**
 
 - 📫 Feel free to reach me at **matiasgarcia1577@gmail.com**
